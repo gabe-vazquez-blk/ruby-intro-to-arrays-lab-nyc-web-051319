@@ -22,8 +22,8 @@ def first_element_with_array_methods(array)
   array.shift()
 end
 
-def instantiate_new_array
-  []
+def last_element_with_array_methods(array)
+  array.pop()
 end
 
 def instantiate_new_array
