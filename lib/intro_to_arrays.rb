@@ -10,8 +10,8 @@ def first_element(array)
   array[0]
 end
 
-def instantiate_new_array
-  []
+def third_element(array)
+  array[2]
 end
 
 def instantiate_new_array
