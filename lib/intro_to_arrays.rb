@@ -14,8 +14,8 @@ def third_element(array)
   array[2]
 end
 
-def instantiate_new_array
-  []
+def last_element(array)
+  array[-1]
 end
 
 def instantiate_new_array
